@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.User {
+  width: 60%;
+  margin: auto;
+  border: 1px solid #eeeeee;
+  box-shadow: 0 2px 3px #cccccc;
+  padding: 16px;
+  text-align: center;
+}
